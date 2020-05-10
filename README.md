@@ -1,5 +1,5 @@
 # Dice-fight
-Dice-fight it's web application for simulating a battle on dice, which are used in game books. You can predict which player will
+Dice-fight is a web application for simulating a battle on dice, which are used in game books. You can predict which player will
 damage the other based on strength and agility indicators until one of them dies.
 
 ## Quick Start
